@@ -54,7 +54,7 @@ This is a console application developed in Java. The project utilizes object-ori
 
 ## Flow Diagram
 
-![Library Management System Flow Diagram](flow_Diagram/Library_Management_System.png)
+<img src="flow_Diagram/Library_Management_System.png" alt="Library Management System Flow Diagram" width="300"/>
 
 ## Implementation Details
 
