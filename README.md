@@ -85,3 +85,19 @@ This is a Command Line Interface (CLI) application developed in Java. The projec
 - View book availability
 - View book, author, and publisher lists (with categorical searching option)
 - Logout/Exit option
+
+## CLI UI Screenshots
+
+<div align="center">
+    <img src="UI_Images/Screenshot from 2024-05-19 13-07-49.png" width="200" alt="Screenshot 1">
+    <img src="UI_Images/Screenshot from 2024-05-19 13-08-57.png" width="200" alt="Screenshot 2">
+    <img src="UI_Images/Screenshot from 2024-05-19 13-09-43.png" width="200" alt="Screenshot 3">
+    <img src="UI_Images/Screenshot from 2024-05-19 13-10-46.png" width="200" alt="Screenshot 4">
+</div>
+
+<div align="center">
+    <img src="UI_Images/Screenshot from 2024-05-19 13-14-49.png" width="200" alt="Screenshot 5">
+    <img src="UI_Images/Screenshot from 2024-05-19 13-16-13.png" width="200" alt="Screenshot 6">
+    <img src="UI_Images/Screenshot from 2024-05-19 13-17-24.png" width="200" alt="Screenshot 7">
+    <img src="UI_Images/Screenshot from 2024-05-19 13-18-39.png" width="200" alt="Screenshot 8">
+</div>
