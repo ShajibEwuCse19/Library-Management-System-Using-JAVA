@@ -86,7 +86,7 @@ This is a console application developed in Java. The project utilizes object-ori
 - View book, author, and publisher lists (with categorical searching option)
 - Logout/Exit option
 
-## CLI UI Screenshots
+## Console UI Screenshots
 
 <div align="center">
     <img src="UI_Images/Screenshot from 2024-05-19 13-07-49.png" width="200" alt="Screenshot 1">
