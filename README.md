@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This is a Command Line Interface (CLI) application developed in Java. The project utilizes object-oriented programming concepts and collections. It simulates a library management system with features for both administrative staff and users.
+This is a console application developed in Java. The project utilizes object-oriented programming concepts and collections. It simulates a library management system with features for both administrative staff and users.
 
 ## How to Run the Project
 
